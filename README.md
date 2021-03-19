@@ -3,4 +3,4 @@
 \
   submit a detailed project report, written in the same style as a scientific paper (60%)\
   submit for marking a copy of their program (20%)\
-  give a 20-minute presentation of their results (20%).\ 
+  give a 20-minute presentation of their results (20%).
